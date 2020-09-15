@@ -2,7 +2,7 @@
 margin-right: 50%;
 background-image:url ("Assets/Images/background.jpg");
  }
-.media {height: 20%;
+.col-sm-8{height: 20%;
 width: 30%;
 }
 .ml-1 {
