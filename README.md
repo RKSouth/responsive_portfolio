@@ -5,25 +5,21 @@ theres a section in the good read me example that says "At a minimum, your proje
 ## Features 
 
 
-__1. Converted all HTML elements into semantic terms__
+__1. A navbar__
  
 _Why?_
 
-I did this to not only make my code more concise in general but to make it easier to read for search engine optimization and for anyone else that might want to read/edit it in the future. There were plenty of instances where it was not clear whether you were looking at a header or a footer or a section within a section. Adding labels to the outer sections (such as article, aside, header and footer) made it easier to see where you were in the code and when making changes, easier to avoid mistakes.
+In order to reach other pages of my portfolio I need a way to easily navigate between them. 
 
 _What?/How?_
 
-In order to understand what I was initially looking out, I started from the CSS first and combined all the duplicate classes. ".benefit-brand img", ".benefit-lead img" and ".benet-cost img" all contained the exact same thing and therefore could be put onto 1 block of code with the 3 lables. I did this for all duplicate blocks. 
 
-Then I went to the HTML code. I opened it up both in my IDE and in my browser and examined it. I also opened the w3 schools page on [Semantic HTML] (https://www.w3schools.com/html/html5_semantic_elements.asp). I systamitically went from the outer edge in, removing div class="benefits and replacing it with "aside" then moving to the CSS and changing it there as well; saving and checking routinely as I went. 
 
-Finally I removed the inner sections, determining which div's needed to stay and which to go, all inner divs were replaced with "sections" which, with only few exceptions no longer needed the "." to indicate a class.
-
-__2. Re-ordered the elements to follow a logical structure (HTML)__
+__2. A Responsive Layout__
 
 _Why?_
 
-Because it is plain unnaceptable to have code floating around willy-nilly with no reasonable home. You wouldn't write a book with the words randomly scattered about the page and expect people to know where your story is going or that there is even a story, so you shouldn't do that with code either.
+Not everyone wants to use the same size screen, sometimes we use phone sometimes we use giant monitors. The layout of my portfolio needs to look good where ever it is being viewed.
 
 _What?/How?_
 
