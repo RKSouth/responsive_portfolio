@@ -19,7 +19,7 @@ Must properly utilize Bootstrap components and grid system -->
 * [Deployed Site](Deployed)
 * [Features](Features)
 * [Usage](Usage)
-* [Usage](Usage)
+* [Author](Author)
 * [Credits](Credits)
 * [License](License)
 
@@ -41,7 +41,14 @@ _Why?_
 In order to reach other pages of my portfolio I need a way to easily navigate between them. Another issue is that the nav bar needs to be able to adjust with the size of the viewing window, intelligently and beautifully. 
 
 _What?/How?_
-	![alt text](image.jpg)
+	![Cade of the Navbar](Assets/Images/responsivecode_02.png)
+
+The original code for the navbar came from the Bootstrap framework. However, there were a few issues with it:
+* It did not fix to top of the screen
+* The list items were on the wrong side
+* Depending on the navbar, it did not collapse.
+
+As you can see, I added a fixed-top section on line 29 inside if the nav class, allowing the navbar to be permanantly affixed to the top. 
 
 
 __2. A Responsive Layout__
