@@ -13,6 +13,18 @@ Must properly utilize Bootstrap components and grid system -->
 
 
 ### The goal of this project is to make a portfolio that works with all screen sizes using mainly the html Bootstrap framework. The portfolio needs to be beautiful, easy to use and available across different devices.  
+
+## Table of Contents
+
+* [Technologies Used](Technologies_Used)
+* [Usage](Usage)
+* [Credits](Credits)
+* [License](License)
+
+## Technologies_Used
+* HTML 
+* CSS
+
 ## Features 
 
 
@@ -51,27 +63,21 @@ img src="./assets/images/lead-generation.png" and turning it into this:
 img src="./assets/images/lead-generation.png" alt="gears going down into money"
 
 Notice what I added: alt="gears going down into money"
-    
+
 A simply alt= with a good description in quoatation marks, it doesn't need to be long and detailed as long as the core of the image is described. 
     
 
-## Table of Contents
-
-* [Technologies Used](Technologies_Used)
-* [Usage](Usage)
-* [Credits](Credits)
-* [License](License)
-
-## Technologies_Used
-* HTML 
-* CSS
 
 ## Usage
 ### How do you use this project? You may use it nearly anyway you see fit however, if you feel lost, scared and alone; I have some suggestions for you. 
  1. You may admire it, sit back and take in the beauty. Peruse through the code. Enjoy it as if it were an old coletrain record, Bach or Monet. So, I might not be quite there yet but not every note written by Bach was divined, Coletain didn't start out great and in the beginning Monet's art looked like everyone elses at the time.
  2. You can judge it. You can critisize and even give useful feedback. How can I improve? Do you know how to write code as beautiful as Monet paints- I want to know your secrets.
  3. You can x out. You came here by accident and only realized right now you weren't suppose to be here. So, it's cool. Have a good night. 
-
+## Author 
+Rachael Kelm-Southworth
+deployed site
+linkedin 
+github
  ## Credits
 
 I would like to thank Kerwin, Manuel Jerome and all my classmates for helping me understand this subject matter and anyone that contributed to make the base code.
