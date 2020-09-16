@@ -15,8 +15,10 @@ Must properly utilize Bootstrap components and grid system -->
 ### The goal of this project is to make a portfolio that works with all screen sizes using mainly the html Bootstrap framework. The portfolio needs to be beautiful, easy to use and available across different devices.  
 
 ## Table of Contents
-
 * [Technologies Used](Technologies_Used)
+* [Deployed Site](Deployed)
+* [Features](Features)
+* [Usage](Usage)
 * [Usage](Usage)
 * [Credits](Credits)
 * [License](License)
@@ -24,6 +26,10 @@ Must properly utilize Bootstrap components and grid system -->
 ## Technologies_Used
 * HTML 
 * CSS
+* Bootstrap Framework
+
+## Deployed Site
+[Responsive Portfolio](https://rksouth.github.io/responsive_portfolio/)
 
 ## Features 
 
@@ -35,7 +41,7 @@ _Why?_
 In order to reach other pages of my portfolio I need a way to easily navigate between them. Another issue is that the nav bar needs to be able to adjust with the size of the viewing window, intelligently and beautifully. 
 
 _What?/How?_
-
+	![alt text](image.jpg)
 
 
 __2. A Responsive Layout__
@@ -45,26 +51,21 @@ _Why?_
 Not everyone wants to use the same size screen, sometimes we use phone sometimes we use giant monitors. The layout of my portfolio needs to look good where ever it is being viewed.
 
 _What?/How?_
-
- 
+	![alt text](image.jpg)
+   	![alt text](image.jpg)
 
 __3. Responsive images__
 
 _Why?_
 
-Two reasons: Just in case the image does not show up and to make the page usable and understandable even if the user cannot see the image. 
+If the page resizes and components of the page resize and the image doesn't, we end up with a page that is only image and nothing else. If you are working on a smaller screen this is just no beuno. It make the screen and by extension the site completely unusable and when it comes to webpage design usability needs to be the number one concern.
 
 
 
 _What?/How?_
 
-By finding this code:
-img src="./assets/images/lead-generation.png" and turning it into this:
-img src="./assets/images/lead-generation.png" alt="gears going down into money"
-
-Notice what I added: alt="gears going down into money"
-
-A simply alt= with a good description in quoatation marks, it doesn't need to be long and detailed as long as the core of the image is described. 
+	![alt text](image.jpg)
+   	![alt text](image.jpg)
     
 
 
@@ -75,12 +76,12 @@ A simply alt= with a good description in quoatation marks, it doesn't need to be
  3. You can x out. You came here by accident and only realized right now you weren't suppose to be here. So, it's cool. Have a good night. 
 ## Author 
 Rachael Kelm-Southworth
-deployed site
 linkedin 
 github
+
  ## Credits
 
-I would like to thank Kerwin, Manuel Jerome and all my classmates for helping me understand this subject matter and anyone that contributed to make the base code.
+I would like to thank Kerwin, Manuel, Roger, Jerome and all my classmates for helping me understand this subject matter and anyone that contributed to make the base code (Bootstrap Framework).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
