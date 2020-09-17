@@ -67,7 +67,7 @@ _What?/How?_
 	![Responsive Image 1](Assets/Images/responsiveimg_03.png)
 
 Above in an image of the about me or the index.html page. What is most important to note on this page is the way margins are. The fact that about me card is being filled with text. Further examples of what the website being responsive looks like can be found below. You may note at the images in the "responsive images" section that instead of having text it is the toggle box. Further comparison to this image (when considering the margin) may be helpful.
-    ![Responsive Image 2](Assets/Images/responsiveimage_01.png)
+    ![Responsive Image 2](Assets/Images/responsiveimg_01.png)
 
 Below is an image of the code after it had been worked over several times. If you look you will probably be able to spot the errors.
    ![Responsive Image 3](Assets/Images/responsivecode_01.png)
@@ -135,8 +135,10 @@ _Why?_
  3. You can x out. You came here by accident and only realized right now you weren't suppose to be here. So, it's cool. Have a good night. 
 ## Author 
 Rachael Kelm-Southworth
-[linkedin] (https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3) 
-[github] (https://github.com/RKSouth/)
+
+* [linkedin] (https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3) 
+
+* [github] (https://github.com/RKSouth/)
 
  ## Credits
 
