@@ -1,4 +1,4 @@
-# Responsive Portfolia
+# Responsive Portfolio
 <!--  
 theres a section in the good read me example that says "At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here."
 <!-- Functional, deployed application
@@ -102,11 +102,13 @@ Above is an image of the portfolio section with a very interesting bird on it. T
 __3. Other/Potentional Complaints__
 
 * The background image isn't fully on the screen (it's too big!)
+
 _Why?_
 
    I originally meant to resize it using CSS to make it more navigatible. However, I decided I like the simplicty of a little bit of mountain and a lot of sky. I also anticipate that my portfolio will grow and change and as it does my background image will become more visible-as the page gets longer. I love adding those little bits of surprise to my code and designs, it's like a fruity after taste that lingers in your mouth after a really good desert. 
 
 * I used cards instead of just containers with CSS and background applied
+
 _Why?_
 
    I have a lot reasons I can give for this but mainly it's because I am too stubborn for my own good. Though, the challange was fun to try to get a card to work instead of using sanity, I would probably not do it again. I had a vision, and I was sure I could make it work. I hope, reader, that you think it worked as well as I did. 
@@ -114,10 +116,17 @@ _Why?_
    If I were going to do this again, I would use CSS or a style tag to make a background inside of a container instead of using a card. 
 
 * Sticky footer is see-through
+
 _Why?_
 
-   I want my portfolio to have the feeling of airy breezy-ness. I want it to say, "this girl is classy, easy to work with and doesn't overdo it." I am from the school of design that says design should be felt, not seen. It shouldn't get in your way of the experience but enhance it. I want a sticky footer but I want one that is there without too much commotion so I did part with the asthetic a bit to do that and later I will probably go back in and make my navbar more "breezy" as well. 
+   I want my portfolio to have the feeling of airy breezy-ness. I want it to say, "this girl is classy, easy to work with and doesn't overdo it." I am from the school of design that says design should be felt, not seen. It shouldn't get in your way of the experience but enhance it. I want a sticky footer but I want one that is there without too much commotion so I did part with the asthetic a bit to do that and later I will probably go back in and make my navbar more "breezy" as well.
 
+   * Your Portfolio is just pictures of projects with no github links
+
+_Why?_
+
+   I have the preliminary git hub repos made for those projects and I would like to add them in. But I wasn't sure exactly what my readme should look and that is a project for my "extra projects" time. I also want to just get a better idea of what it would like when I do have projects in there. 
+  
 
 ## Usage
 ### How do you use this project? You may use it nearly anyway you see fit however, if you feel lost, scared and alone; I have some suggestions for you. 
@@ -126,8 +135,8 @@ _Why?_
  3. You can x out. You came here by accident and only realized right now you weren't suppose to be here. So, it's cool. Have a good night. 
 ## Author 
 Rachael Kelm-Southworth
-linkedin 
-github
+[linkedin] (https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3) 
+[github] (https://github.com/RKSouth/)
 
  ## Credits
 
