@@ -45,8 +45,9 @@ label {    opacity: 1;
     opacity: 1;
     font-size: large;
     /* color: rgb(245, 229, 206); */
-    font-weight:600;
-    color: rgb(53, 48, 48);
+    font-weight:400;
+    /* color: rgb(53, 48, 48); */
+    color: rgb(34, 68, 68);
 }
 
 .img-fluid {
