@@ -51,8 +51,6 @@ label {    opacity: 1;
 }
 
 .img-fluid {
-    max-width:35vw;
-    max-height: 35vh;
     opacity: .7;
 }
 .navbar {
@@ -78,4 +76,21 @@ p {
     color: rgb(34, 68, 68);
     font-kerning: inherit;
     shape-rendering: geometricPrecision;
+}
+.vh-1 {
+    max-width:10%
+    max-height:10%
+#img1{
+    max-width:44vw;
+    max-height:35vh;
+}
+
+#img2{
+    max-width:44vw;
+    max-height: 44vh;
+}
+
+#img3 {
+    max-width:44vw;
+    max-height: 35vh;
 }
