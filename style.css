@@ -50,9 +50,9 @@ label {    opacity: 1;
 }
 
 .img-fluid {
-    max-width:30vw;
-    max-height: 30vh;
-    opacity: 1;
+    max-width:35vw;
+    max-height: 35vh;
+    opacity: .7;
 }
 .navbar {
     background-color: rgba(245, 245, 245, 0.4);
@@ -62,4 +62,19 @@ label {    opacity: 1;
     text-shadow: dimgray;
     font-weight: bolder;
     color: rgb(53, 48, 48);
+}
+a{
+    opacity: 1;
+    font-size: large;
+    /* color: rgb(245, 229, 206); */
+    font-weight:600;
+    color: rgb(53, 48, 48);
+}
+p {
+    font-style: inherit;
+    font-variant: unset;
+    font-weight: bolder;
+    color: rgb(34, 68, 68);
+    font-kerning: inherit;
+    shape-rendering: geometricPrecision;
 }
