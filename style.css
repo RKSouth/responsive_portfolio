@@ -1,0 +1,65 @@
+.navbar-brand {
+    font-size: x-large;
+    font-weight: lighter;
+    background: transparent;
+    text-align: center;
+    text-shadow: dimgray;
+    color: rgb(53, 48, 48);
+    /* background-color: rgba(245, 245, 245, 0.4); */
+  
+
+
+}
+body {
+    background-image: url("Assets/Images/abstract-1846822_1920.jpg");
+    /* color: rgb(245, 229, 206); */
+  
+   }
+
+.card-row {
+    font-weight: lighter;
+    max-width:80vw; 
+    margin:2%; 
+    max-width:20 rem;
+    /* background: transparent; */
+  background-color: rgba(245, 245, 245, 0.4);
+  /* opacity: .4; */
+    
+}
+.card-title {
+    font-size: x-large;
+    /* color: rgb(245, 229, 206); */
+    opacity: 1;
+
+}
+
+label {    opacity: 1;
+    font-size: large;
+    /* color: rgb(245, 229, 206); */
+    font-weight:600;
+    color: rgb(53, 48, 48);
+
+}
+
+.card-text {
+    opacity: 1;
+    font-size: large;
+    /* color: rgb(245, 229, 206); */
+    font-weight:600;
+    color: rgb(53, 48, 48);
+}
+
+.img-fluid {
+    max-width:30vw;
+    max-height: 30vh;
+    opacity: 1;
+}
+.navbar {
+    background-color: rgba(245, 245, 245, 0.4);
+    color: rgb(53, 48, 48);
+}
+.nav-link {
+    text-shadow: dimgray;
+    font-weight: bolder;
+    color: rgb(53, 48, 48);
+}
