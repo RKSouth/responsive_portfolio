@@ -80,7 +80,8 @@ p {
 .vh-1 {
     max-width:10%
     max-height:10%
-#img1{
+}
+#img1 {
     max-width:44vw;
     max-height:35vh;
 }
