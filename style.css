@@ -11,11 +11,16 @@
 
 }
 body {
-    background-image: url("Assets/Images/abstract-1846822_1920.jpg");
+    background-image: url("Assets/Images/Utah.jpg");
     /* color: rgb(245, 229, 206); */
   
    }
-
+/* button {
+    font-weight: bolder;
+} */
+.card {
+    opacity: .7;
+}
 .card-row {
     font-weight: lighter;
     max-width:80vw; 
@@ -80,8 +85,7 @@ p {
 .vh-1 {
     max-width:10%
     max-height:10%
-}
-#img1 {
+#img1{
     max-width:44vw;
     max-height:35vh;
 }
